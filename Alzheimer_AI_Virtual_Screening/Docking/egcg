@@ -1,0 +1,38 @@
+No type selected for D:\Alzheimer_AI_Virtual_Screening\Docking\EGCG+4EY7.pse!
+
+The following problems occurred while reading PDB file for 4EY7_receptor.pdb
+warning: cannot find LINK/SSBOND residue CYS (69 )
+warning: cannot find LINK/SSBOND residue CYS (257 )
+warning: cannot find LINK/SSBOND residue CYS (409 )
+warning: cannot find LINK/SSBOND residue NAG (1 )
+warning: cannot find LINK/SSBOND residue ASN (265 )
+warning: cannot find LINK/SSBOND residue ASN (350 )
+warning: cannot find LINK/SSBOND residue NAG (1 )
+warning: cannot find LINK/SSBOND residue NAG (1 )
+warning: cannot find LINK/SSBOND residue NAG (1 )
+warning: cannot find LINK/SSBOND residue NAG (1 )
+#0, chain A: ACHE
+The following problems occurred while reading PDB file for EGCG_dock.pdbqt
+warning:  Ignored bad PDB record found on line 1
+warning:  Ignored bad PDB record found on line 2
+warning:  Ignored bad PDB record found on line 3
+warning:  Ignored bad PDB record found on line 4
+warning:  Ignored bad PDB record found on line 5
+warning:  Ignored bad PDB record found on line 6
+warning:  Ignored bad PDB record found on line 7
+warning:  Ignored bad PDB record found on line 9
+warning:  Ignored bad PDB record found on line 10
+warning:  Ignored bad PDB record found on line 21
+Suppressed 22 warnings about bad PDB records
+You must provide a file name that contains either $name or $number, which will be changed to the model name or model number (respectively) in the final saved file name
+
+You must provide a file name that contains either $name or $number, which will be changed to the model name or model number (respectively) in the final saved file name
+
+You must provide a file name that contains either $name or $number, which will be changed to the model name or model number (respectively) in the final saved file name
+
+You must provide a file name that contains either $name or $number, which will be changed to the model name or model number (respectively) in the final saved file name
+
+Wrote C:\Users\sayan\Downloads\EGCgee.pdb
+You must provide a file name that contains either $name or $number, which will be changed to the model name or model number (respectively) in the final saved file name
+
+
